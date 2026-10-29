@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://datumscribe.github.io/csv-fieldwork-practice/sitemap.xml
